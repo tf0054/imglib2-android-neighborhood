@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_title">imglib2-android-neighborhood</string>
+    <string name="start_recording">Apply filter</string>
+    <string name="match_file">Load original</string>
+</resources>
